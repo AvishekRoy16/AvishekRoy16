@@ -15,9 +15,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+<a href = "https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true">
 
-![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true)
-
+<img(https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true)/>
+</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Deeplearning&theme=radical&hide_border=true)
