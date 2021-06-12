@@ -40,7 +40,7 @@
 <br/>
 <h1 align = center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true&langs_count=8)
 </h1>
 
 *# Note: These are the languages that I most use in my github. This does not indicate my skill level or something like that. It is just a github metric :)*
