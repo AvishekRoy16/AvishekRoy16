@@ -15,7 +15,7 @@
 
 
 
-###I am a student at B.Tech CSE Student, passionate about Airtificial Intelligence
+### I am a student at B.Tech CSE Student, passionate about Airtificial Intelligence
 - 🔭 I’m currently working on my College Assignments :')
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on a machine learning project 
@@ -25,30 +25,17 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Github-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
  <img src="https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"/>
-
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
-
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-092E20?style=for-the-badge&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/php-092E20?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-
-<!-- <img align="" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
-
 
 <br/>
 <h1 align = center>
@@ -56,7 +43,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true)
 </h1>
 
-*# Note: These are the languages that I most use in my github. This does not indicate my skill level or something like that. It is just a github metric*
+*# Note: These are the languages that I most use in my github. This does not indicate my skill level or something like that. It is just a github metric :)*
 
 ### I am currently working on these repositories:
 <a href="https://github.com/AvishekRoy16/DeepLearning">
