@@ -21,9 +21,25 @@
 - 👯 I’m looking to collaborate on a machine learning project 
 - 🤔 I’m looking for help with documentation and markdowns
 
-### Languages and Tools:
+<h3 align=center>Languages and Tools:</h3>
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<p align="center">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Github-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
+
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-092E20?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<!-- <img align="" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -31,9 +47,16 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
+
 
 <br/>
+<h1 align = center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true)
+</h1>
+
+*# Note: These are the languages that I most use in my github. This does not indicate my skill level or something like that. It is just a github metric*
 
 ### I am currently working on these repositories:
 <a href="https://github.com/AvishekRoy16/DeepLearning">
@@ -50,17 +73,15 @@
 
 <br/>
 
-### ⚡ Some stats ⚡
+<h1 align = center>
+
 ![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true)
              
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true)
 
 
-<h1 align = 'center'>✉️ Find me on:</h1>
-<p align="center">
- <a href="to be added" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Porfolio" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/avishek16/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:avishek.roy.india@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="MailID" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-
+<h2 align='center'>Connect with me  📫 </h2>
+<p align = 'center'> 
+<a href = https://www.linkedin.com/in/avishek16 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=savishek.roy.india@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
+ <a href = https://github.com/AvishekRoy16 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+ </p>
