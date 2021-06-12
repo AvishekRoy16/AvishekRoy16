@@ -8,5 +8,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: PYTHON / JAVA / HTML / CSS / PHP / JAVASCRIPT
 
 [![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&hide=prs)(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
