@@ -61,8 +61,14 @@
 <br/>
 
 <h1 align = center>
-
+<!-- 
+will use this if the img tag version does not update
 ![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true)
+ -->
+ <img src="https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="AvishekRoy16" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishekRoy16&theme=radical&hide_border=true" alt="AvishekRoy16" />
+
+ </h1>
 <!--  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvishekRoy16" alt="AvishekRoy16" /></a> </p> do when you have enough expirence 
 -->
@@ -75,3 +81,4 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=savishek.roy.india@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
  <a href = https://github.com/AvishekRoy16 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
  </p>
+ 
