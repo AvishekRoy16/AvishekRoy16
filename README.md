@@ -11,7 +11,7 @@
 
 
 <!-- ![Github](https://img.shields.io/github/followers/AvishekRoy16?label=Follow&style=social) -->
-<img align="center" alt="Python" src="https://media-exp1.licdn.com/dms/image/C4E16AQHk3FpqmRv_8g/profile-displaybackgroundimage-shrink_200_800/0/1621691371353?e=1628726400&v=beta&t=yeWyYpYYyP5wBII3CQsH0eFs-OHGv8lHfujbhKJjRoI" />
+<img align="center" alt="Python" src="https://github.com/AvishekRoy16/AvishekRoy16/blob/master/LinkedIn%20Cover.jpg" />
 
 
 
