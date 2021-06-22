@@ -15,7 +15,7 @@
 
 
 
-### I am a student at B.Tech CSE Student, passionate about Artificial Intelligence
+### I am a B.Tech CSE Student, passionate about Artificial Intelligence
 - 🔭 I’m currently working on my College Assignments :')
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on a machine learning project 
