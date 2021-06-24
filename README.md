@@ -78,7 +78,7 @@ will use this if the img tag version does not update
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
 <a href = https://www.linkedin.com/in/avishek16 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=savishek.roy.india@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=avishek.roy.india@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
  <a href = https://github.com/AvishekRoy16 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
  </p>
  
