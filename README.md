@@ -22,7 +22,7 @@
 - 🤔 I’m looking for help with documentation and markdowns
 
 <h3 align=center>Languages and Tools:</h3>
-
+<!-- Logos of the languages -->
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -39,11 +39,11 @@
 
 <br/>
 <h1 align = center>
-
+<!-- This displays the top languages in github - uncomment when there are various languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true&langs_count=8)
 </h1>
 
-*# Note: These are the languages that I most use in my github. This does not indicate my skill level or something like that. It is just a github metric :)*
+*# Note: These are the languages that I most use in my github. This does not indicate my skill level or something like that. It is just a github metric :)* -->
 
 ### I am currently working on these repositories:
 <a href="https://github.com/AvishekRoy16/DeepLearning">
