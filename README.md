@@ -63,7 +63,7 @@ will use this if the img tag version does not update
 </div>
 <div align='center'>
  <a href="https://github.com/AvishekRoy16/Python">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Python&theme=radical&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Python-Basics&theme=radical&hide_border=true" />
  </a>
 
  <a href="https://github.com/AvishekRoy16/DSA">
