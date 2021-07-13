@@ -72,11 +72,13 @@ will use this if the img tag version does not update
 </div>
 
 <hr> 
-
+<!-- theme-color change - react-dark, radical -->
 <h1 align = center>
  <img src="https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="AvishekRoy16" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishekRoy16&theme=radical&hide_border=true" alt="AvishekRoy16" />
 </h1>
+
+ ![](https://activity-graph.herokuapp.com/graph?username=AvishekRoy16&theme=radical&area=true&hide_border=true")
 <!--  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvishekRoy16" alt="AvishekRoy16" /></a> </p> do when you have enough expirence 
 -->
