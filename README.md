@@ -3,7 +3,7 @@
 </div>
 <h1 align= center>I'm Avishek</h1>
 
-<h3 align= center>Computer Science Student. Aspiring Machine Learning Engineer</h3>
+<h3 align= center>Computer Science Student. Budding Data Scientist || ML Engineer</h3>
 
 <!-- 
 Used to see the visitors
