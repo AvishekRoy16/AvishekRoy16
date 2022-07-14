@@ -16,14 +16,24 @@ Used to see the visitors
 <img alt="Banner" src="https://github.com/AvishekRoy16/AvishekRoy16/blob/master/LinkedIn%20Cover.jpg" />
 </div>
 
+<h3 align = 'center'>These are some of the projects I have worked on:</h3>
 
-### I am a B.Tech CSE Student, passionate about Artificial Intelligence
-- 🔭 I’m currently working on my College Assignments :')
-- 🌱 I’m currently learning Artificial Intelligence 
-- 👯 I’m looking to collaborate on a machine learning and data science project 
-- 🤔 I’m looking for help with documentation and markdowns
+<div align = 'center'>
+ <a href="https://github.com/AvishekRoy16/Grocery-Store">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Grocery-Store&theme=radical&hide_border=true" />
+ </a>
+ <a href="https://github.com/AvishekRoy16/DS-Salary-Project">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=DS-Salary-Project&theme=radical&hide_border=true" />
+ </a>
+ <a href="https://github.com/AvishekRoy16/Signboard-Translation">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Signboard-Translation&theme=radical&hide_border=true" />
+ </a>
+ <a href="https://github.com/AvishekRoy16/Cement-Strength-Prediction">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Cement-Strength-Prediction&theme=radical&hide_border=true" />
+ </a>
+</div>
+<hr>
 
- 
 <h3 align=center>Languages and Tools:</h3>
 <!-- Logos of the languages -->
 <p align="center">
@@ -34,12 +44,42 @@ Used to see the visitors
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Github-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
  <img src="https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
- <img src="https://img.shields.io/badge/php-092E20?style=for-the-badge&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Postman-00599C?style=for-the-badge&logo=postman&logoColor=yellow"/>
 </p>
 <hr>
+
+<h3 align = 'center'>The things I have learned and practiced all in one place :) :</h3>
+
+<div align = 'center'>
+ <a href="https://github.com/AvishekRoy16/DeepLearning">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Deeplearning&theme=radical&hide_border=true" />
+ </a>
+ <a href="https://github.com/AvishekRoy16/Machine-Learning">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Machine-Learning&theme=radical&hide_border=true" />
+ </a>
+</div>
+<div align='center'>
+ <a href="https://github.com/AvishekRoy16/Python">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Python-Basics&theme=radical&hide_border=true" />
+ </a>
+
+ <a href="https://github.com/AvishekRoy16/DSA">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=DSA&theme=radical&hide_border=true" />
+ </a>
+</div>
+<hr>
+
+<!--
+### I am a B.Tech CSE Student, passionate about Artificial Intelligence
+- 🔭 I’m currently working on my College Assignments :')
+- 🌱 I’m currently learning Artificial Intelligence 
+- 👯 I’m looking to collaborate on a machine learning and data science project 
+- 🤔 I’m looking for help with documentation and markdowns
+-->
+ 
+
  
 <!--
 <h1 align = center>
@@ -54,24 +94,7 @@ This displays the top languages in github - uncomment when there are various lan
 will use this if the img tag version does not update
 ![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true)
  -->
-<h3 align = 'center'>I am currently working on these repositories:</h3>
 
-<div align = 'center'>
- <a href="https://github.com/AvishekRoy16/DeepLearning">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Deeplearning&theme=radical&hide_border=true" />
- </a>
-</div>
-<div align='center'>
- <a href="https://github.com/AvishekRoy16/Python">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Python-Basics&theme=radical&hide_border=true" />
- </a>
-
- <a href="https://github.com/AvishekRoy16/DSA">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=DSA&theme=radical&hide_border=true" />
- </a>
-</div>
-
-<hr> 
 <!-- theme-color change - react-dark, radical -->
 <h1 align = center>
  <img src="https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="AvishekRoy16" />
