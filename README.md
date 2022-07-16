@@ -1,9 +1,15 @@
+#block-id a {
+    color: green !important;
+}
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align= center>I'm Avishek</h1>
 
 <h3 align= center>Computer Science Student. Budding Data Scientist || ML Engineer</h3>
+
 
 <!-- 
 Used to see the visitors
@@ -14,6 +20,15 @@ Used to see the visitors
 <div align ='center'>
 <!-- ![Github](https://img.shields.io/github/followers/AvishekRoy16?label=Follow&style=social) -->
 <img alt="Banner" src="https://github.com/AvishekRoy16/AvishekRoy16/blob/master/LinkedIn%20Cover.jpg" />
+</div>
+
+<div align = 'center' >
+ <a href="https://drive.google.com/file/d/1dCuHh-K2C_C6mswaVEBaO0mgqATuzPTd/view " target="_blank" color="white" >
+  <p> Click Here To See My Resume!!! </p>
+ </a>
+ <a href="https://drive.google.com/file/d/1dCuHh-K2C_C6mswaVEBaO0mgqATuzPTd/view " target="_blank">
+ <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="110" height="50" />
+ </a>
 </div>
 
 <h3 align = 'center'>These are some of the projects I have worked on:</h3>
