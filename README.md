@@ -1,8 +1,3 @@
-#block-id a {
-    color: green !important;
-}
-
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
@@ -23,11 +18,9 @@ Used to see the visitors
 </div>
 
 <div align = 'center' >
- <a href="https://drive.google.com/file/d/1dCuHh-K2C_C6mswaVEBaO0mgqATuzPTd/view " target="_blank" color="white" >
   <p> Click Here To See My Resume!!! </p>
- </a>
  <a href="https://drive.google.com/file/d/1dCuHh-K2C_C6mswaVEBaO0mgqATuzPTd/view " target="_blank">
- <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="110" height="50" />
+ <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
  </a>
 </div>
 
@@ -62,6 +55,8 @@ Used to see the visitors
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
  <img src="https://img.shields.io/badge/Postman-00599C?style=for-the-badge&logo=postman&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/Tableau-00599C?style=for-the-badge&logo=Tableau&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Linux-239120?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 <hr>
 
@@ -121,17 +116,17 @@ will use this if the img tag version does not update
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvishekRoy16" alt="AvishekRoy16" /></a> </p> do when you have enough expirence 
 -->
 <hr>
-<h2 align='center'>Connect me  📫 </h2>
+<h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
  
 <a href = https://www.linkedin.com/in/avishek16 target='_blank'> 
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/>
 </a> 
- 
+&nbsp &nbsp
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=avishek.roy.india@gmail.com" target="_blank">
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/>
 </a>
-
+&nbsp &nbsp
 <a href = https://github.com/AvishekRoy16 target='_blank'> 
 <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/>
 </a>
