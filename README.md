@@ -25,6 +25,7 @@ Used to see the visitors
 </div>
 
 <h3 align = 'center'>These are some of the projects I have worked on:</h3>
+<p align = 'center'> Click on the carts to open the repo! </p>
 
 <div align = 'center'>
  <a href="https://github.com/AvishekRoy16/Grocery-Store">
@@ -61,7 +62,7 @@ Used to see the visitors
 <hr>
 
 <h3 align = 'center'>The things I have learned and practiced all in one place :) :</h3>
-
+<p align = 'center'> Click on the carts to open the repo! </p>
 <div align = 'center'>
  <a href="https://github.com/AvishekRoy16/DeepLearning">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Deeplearning&theme=radical&hide_border=true" />
