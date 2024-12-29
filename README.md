@@ -23,10 +23,11 @@ Used to see the visitors
  <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
  </a>
 </div>
-
+<!--
 <h3 align = 'center'>These are some of the projects I have worked on:</h3>
-<p align = 'center'> Click on the carts to open the repo! </p>
-
+<p align = 'center'> Click on the carts to open the repo! </p> 
+-->
+<!--
 <div align = 'center'>
  <a href="https://github.com/AvishekRoy16/Grocery-Store">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Grocery-Store&theme=radical&hide_border=true" />
@@ -42,6 +43,28 @@ Used to see the visitors
  </a>
 </div>
 <hr>
+-->
+
+<h3 align = 'center'>The things I have learned and practiced all in one place :) :</h3>
+<p align = 'center'> Click on the carts to open the repo! </p>
+
+<div align = 'center'>
+  <a href="https://github.com/AvishekRoy16/Exploring-Data-Science-Projects">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Exploring-Data-Science-Projects&theme=radical&hide_border=true" />
+ </a>
+ <a href="https://github.com/AvishekRoy16/Machine-Learning">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Machine-Learning&theme=radical&hide_border=true" />
+ </a>
+</div>
+<div align='center'>
+ <a href="https://github.com/AvishekRoy16/DeepLearning">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Deeplearning&theme=radical&hide_border=true" />
+ </a>
+ <a href="https://github.com/AvishekRoy16/DSA">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=DSA&theme=radical&hide_border=true" />
+ </a>
+</div>
+
 
 <h3 align=center>Languages and Tools:</h3>
 <!-- Logos of the languages -->
@@ -61,26 +84,8 @@ Used to see the visitors
 </p>
 <hr>
 
-<h3 align = 'center'>The things I have learned and practiced all in one place :) :</h3>
-<p align = 'center'> Click on the carts to open the repo! </p>
-<div align = 'center'>
- <a href="https://github.com/AvishekRoy16/DeepLearning">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Deeplearning&theme=radical&hide_border=true" />
- </a>
- <a href="https://github.com/AvishekRoy16/Machine-Learning">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Machine-Learning&theme=radical&hide_border=true" />
- </a>
-</div>
-<div align='center'>
- <a href="https://github.com/AvishekRoy16/Python">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Python-Basics&theme=radical&hide_border=true" />
- </a>
 
- <a href="https://github.com/AvishekRoy16/DSA">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=DSA&theme=radical&hide_border=true" />
- </a>
-</div>
-<hr>
+
 
 <!--
 ### I am a B.Tech CSE Student, passionate about Artificial Intelligence
@@ -106,15 +111,17 @@ will use this if the img tag version does not update
 ![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true)
  -->
 
-<!-- theme-color change - react-dark, radical -->
+<!-- theme-color change - react-dark, radical 
 <h1 align = center>
  <img src="https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="AvishekRoy16" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishekRoy16&theme=radical&hide_border=true" alt="AvishekRoy16" />
 </h1>
 
+
  ![](https://activity-graph.herokuapp.com/graph?username=AvishekRoy16&theme=radical&area=true&hide_border=true")
-<!--  
+ 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvishekRoy16" alt="AvishekRoy16" /></a> </p> do when you have enough expirence 
+
 -->
 <hr>
 <h2 align='center'>Connect with me  📫 </h2>
