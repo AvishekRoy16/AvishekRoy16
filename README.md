@@ -1,142 +1,29 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
-<h1 align= center>I'm Avishek</h1>
+# Avishek
 
-<h3 align= center>Computer Science Student. Budding Data Scientist || ML Engineer</h3>
+### Data Engineering || MLOps || Agentic Workflows
 
+I am a full-stack data scientist working across the path from data preparation and modelling to model-lifecycle support and decision-facing applications. My work began with classical machine learning and simulation, moved through advanced-analytics demonstrations, and now centres on reliable data and ML systems for insurance. I am building deeper independent work in agentic workflows; it is a direction I am developing, not a claim of production agent ownership.
 
-<!-- 
-Used to see the visitors
-<div align = 'center'>
- 
-![](https://visitor-badge.laobi.icu/badge?page_id=AvishekRoy16.AvishekRoy16)
-</div> -->
-<div align ='center'>
-<!-- ![Github](https://img.shields.io/github/followers/AvishekRoy16?label=Follow&style=social) -->
-<img alt="Banner" src="https://github.com/AvishekRoy16/AvishekRoy16/blob/master/LinkedIn%20Cover.jpg" />
-</div>
+## Professional focus — insurance and geospatial technology
 
-<div align = 'center' >
-  <p> Click Here To See My Resume!!! </p>
- <a href="https://drive.google.com/file/d/1dCuHh-K2C_C6mswaVEBaO0mgqATuzPTd/view " target="_blank">
- <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
- </a>
-</div>
-<!--
-<h3 align = 'center'>These are some of the projects I have worked on:</h3>
-<p align = 'center'> Click on the carts to open the repo! </p> 
--->
-<!--
-<div align = 'center'>
- <a href="https://github.com/AvishekRoy16/Grocery-Store">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Grocery-Store&theme=radical&hide_border=true" />
- </a>
- <a href="https://github.com/AvishekRoy16/DS-Salary-Project">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=DS-Salary-Project&theme=radical&hide_border=true" />
- </a>
- <a href="https://github.com/AvishekRoy16/Signboard-Translation">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Signboard-Translation&theme=radical&hide_border=true" />
- </a>
- <a href="https://github.com/AvishekRoy16/Cement-Strength-Prediction">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Cement-Strength-Prediction&theme=radical&hide_border=true" />
- </a>
-</div>
-<hr>
--->
+At **ValueMomentum**, I worked with the **ERIE Insurance (US) Advanced Analytics risk platform team**. My contribution was developing AWS Glue and Aurora/RDS workflows that consolidated cloud and on-premises inputs into reusable modelling datasets, and contributing across evaluation, experiment tracking, versioning, deployment, and monitoring for multiple production computer-vision applications. The wider team platform combined aerial imagery with policy and risk-location context for **human-reviewed** property underwriting; underwriters made the final decisions.
 
-<h3 align = 'center'>The things I have learned and practiced all in one place :) :</h3>
-<p align = 'center'> Click on the carts to open the repo! </p>
+Earlier in ValueMomentum's Advanced Analytics team, I worked on client demonstrations in claims-data streaming and document intelligence, including LLM-assisted retrieval. These were **demonstrations, not production deployments**.
 
-<div align = 'center'>
-  <a href="https://github.com/AvishekRoy16/Exploring-Data-Science-Projects">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Exploring-Data-Science-Projects&theme=radical&hide_border=true" />
- </a>
- <a href="https://github.com/AvishekRoy16/Machine-Learning">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Machine-Learning&theme=radical&hide_border=true" />
- </a>
-</div>
-<div align='center'>
- <a href="https://github.com/AvishekRoy16/DeepLearning">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=Deeplearning&theme=radical&hide_border=true" />
- </a>
- <a href="https://github.com/AvishekRoy16/DSA">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishekRoy16&repo=DSA&theme=radical&hide_border=true" />
- </a>
-</div>
+At **Genpact**, my undergraduate data-science internship covered classical ML for water-quality classification, feature analysis, Tableau reporting, and **AnyLogic supply-chain scenario simulation**. The simulation compared alternatives with a baseline; it is not a claim of realised savings.
 
+Before that, during an internship with the **National Institute of Disaster Management (NIDM)**, I worked on a small machine-learning proof of concept related to concrete-strength prediction. It was a proof of concept, not a deployed system.
 
-<h3 align=center>Languages and Tools:</h3>
-<!-- Logos of the languages -->
-<p align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Github-F7DF1E?style=for-the-badge&logo=github&logoColor=black"/>
- <img src="https://img.shields.io/badge/Git-00599C?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
- <img src="https://img.shields.io/badge/Postman-00599C?style=for-the-badge&logo=postman&logoColor=yellow"/>
- <img src="https://img.shields.io/badge/Tableau-00599C?style=for-the-badge&logo=Tableau&logoColor=white"/>
- <img src="https://img.shields.io/badge/Linux-239120?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-<hr>
+In a **four-person MSc team project with AstraZeneca**, I led the **biological-routing work** while collaborating across planning and implementation. The team built research decision support for cell-line prioritisation: a **white-box ranking workflow** with explicit evidence-governance rules and downstream **knowledge-graph / RAG explanations**. Biological routes and generated explanations supplied bounded context; they could not silently change the underlying ranking. This was not a predictor of laboratory or clinical outcomes.
 
+## Languages and tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge) ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![AnyLogic](https://img.shields.io/badge/AnyLogic-353535?style=for-the-badge)
 
+## What I am building next
 
-<!--
-### I am a B.Tech CSE Student, passionate about Artificial Intelligence
-- 🔭 I’m currently working on my College Assignments :')
-- 🌱 I’m currently learning Artificial Intelligence 
-- 👯 I’m looking to collaborate on a machine learning and data science project 
-- 🤔 I’m looking for help with documentation and markdowns
--->
- 
+I am curating my earlier repositories and developing substantial, reproducible public projects that show the full path from problem framing and evaluation to data engineering, deployment, and monitoring. Public examples will use open or synthetic data and will remain separate from client systems.
 
- 
-<!--
-<h1 align = center>
-This displays the top languages in github - uncomment when there are various languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekRoy16&layout=compact&theme=radical&hide_border=true&langs_count=8)
-</h1>
+## Connect with me
 
-*# Note: These are the languages that I most use in my github. This does not indicate my skill level or something like that. It is just a github metric :)* 
--->
-
-<!-- 
-will use this if the img tag version does not update
-![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true)
- -->
-
-<!-- theme-color change - react-dark, radical 
-<h1 align = center>
- <img src="https://github-readme-stats.vercel.app/api?username=AvishekRoy16&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="AvishekRoy16" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishekRoy16&theme=radical&hide_border=true" alt="AvishekRoy16" />
-</h1>
-
-
- ![](https://activity-graph.herokuapp.com/graph?username=AvishekRoy16&theme=radical&area=true&hide_border=true")
- 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvishekRoy16" alt="AvishekRoy16" /></a> </p> do when you have enough expirence 
-
--->
-<hr>
-<h2 align='center'>Connect with me  📫 </h2>
-<p align = 'center'> 
- 
-<a href = https://www.linkedin.com/in/avishek16 target='_blank'> 
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/>
-</a> 
-&nbsp &nbsp
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=avishek.roy.india@gmail.com" target="_blank">
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/>
-</a>
-&nbsp &nbsp
-<a href = https://github.com/AvishekRoy16 target='_blank'> 
-<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/>
-</a>
-</p>
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishek16/) [![Email](https://img.shields.io/badge/Email-avishek.roy.ina%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishek.roy.ina@gmail.com) [![Request my résumé](https://img.shields.io/badge/Request-my%20r%C3%A9sum%C3%A9-0F766E?style=for-the-badge)](mailto:avishek.roy.ina@gmail.com?subject=Resume%20request&body=Hi%20Avishek%2C%0A%0AI%27d%20like%20to%20request%20your%20resume.%0A%0AThanks%2C)
