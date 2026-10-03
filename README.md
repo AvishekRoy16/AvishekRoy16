@@ -4,7 +4,7 @@
 
 I am a full-stack data scientist working across the path from data preparation and modelling to model-lifecycle support and decision-facing applications. My work began with classical machine learning and simulation, moved through advanced-analytics demonstrations, and now centres on reliable data and ML systems for insurance. I am building deeper independent work in agentic workflows; it is a direction I am developing, not a claim of production agent ownership.
 
-## Professional focus — insurance and geospatial technology
+## Professional focus
 
 At **ValueMomentum**, I worked with the **ERIE Insurance (US) Advanced Analytics risk platform team**. My contribution was developing AWS Glue and Aurora/RDS workflows that consolidated cloud and on-premises inputs into reusable modelling datasets, and contributing across evaluation, experiment tracking, versioning, deployment, and monitoring for multiple production computer-vision applications. The wider team platform combined aerial imagery with policy and risk-location context for **human-reviewed** property underwriting; underwriters made the final decisions.
 
